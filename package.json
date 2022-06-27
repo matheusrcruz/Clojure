@@ -1,0 +1,9 @@
+{
+    "name": "primeiro contato cloujure",
+    "scripts": {
+        "start": "nbb ./main.cljs"
+    },
+    "dependencies": {
+        "nbb": "^0.5.118"
+    }
+}
